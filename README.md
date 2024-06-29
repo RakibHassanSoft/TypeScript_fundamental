@@ -14,3 +14,15 @@
  - If you have a JavaScript program that doesn’t have any syntax errors, it is also a TypeScript program. It means that all JavaScript programs are TypeScript programs. This is very helpful if you’re migrating an existing JavaScript codebase to TypeScript.
 
  - The following diagram shows the relationship between TypeScript and JavaScript:
+
+
+ ### Why we use TypeScript
+  - TypeScript improves your productivity while helping avoid bugs
+  - TypeScript brings the future JavaScript to today
+
+
+
+### Summary
+ - TypeScript is a superset of JavaScript.
+ - TypeScript adds type to the JavaScript and helps you avoid potential bugs that occur at runtime.
+ - TypeScript also implements the future features of JavaScript.
