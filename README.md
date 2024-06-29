@@ -26,3 +26,26 @@
  - TypeScript is a superset of JavaScript.
  - TypeScript adds type to the JavaScript and helps you avoid potential bugs that occur at runtime.
  - TypeScript also implements the future features of JavaScript.
+
+
+ ### TypeScript Setup
+
+ - Install TypeScript compiler
+```
+   npm install -g typescript
+```
+
+Or you can install globally
+
+```
+   npm install -g ts-node
+```
+
+
+### TypeScript file extention
+- ts
+
+### How to run TypeScript 
+```
+ts-node FileName.ts
+```
