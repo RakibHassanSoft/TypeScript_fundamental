@@ -18,7 +18,7 @@ ts-node File-name.ts
 
 ```
 
-## Install
+## Install in and run in react
 
 ```sh
 npm create vite@latest typescript -- --template vanilla-ts
