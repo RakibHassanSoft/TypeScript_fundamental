@@ -16,7 +16,7 @@ npm create vite@latest typescript -- --template vanilla-ts
    npm install ts-node typescript --save-dev
    npx tsc --init
 ```
-###Run the code
+### Run the code
 ```
 ts-node File-name.ts
 
