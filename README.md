@@ -9,8 +9,8 @@ Overall, the project is an in-depth TypeScript learning resource, ideal for deve
 ```sh
 npm create vite@latest typescript -- --template vanilla-ts
 ```
-##Setup in local
-###First install
+## Setup in local
+### First install
 ```
     npm init -y
    npm install ts-node typescript --save-dev
