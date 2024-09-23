@@ -4,11 +4,7 @@ The project also delves into advanced TypeScript features such as generics, fetc
 
 Overall, the project is an in-depth TypeScript learning resource, ideal for developers who wish to gain a thorough understanding of TypeScript, from basic to advanced levels, through practical examples and challenges.
 
-## Install
-
-```sh
-npm create vite@latest typescript -- --template vanilla-ts
-```
+## Install IN local
 ## Setup in local
 ### First install
 ```
@@ -22,8 +18,11 @@ ts-node File-name.ts
 
 ```
 
+## Install
 
-
+```sh
+npm create vite@latest typescript -- --template vanilla-ts
+```
 
 ## Setup
 
